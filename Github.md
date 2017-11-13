@@ -3,7 +3,7 @@ Windows
 
 **Foto do chat**:
 
-<a href="img/github/win01.png"><img src="img/github/win01.png" width="500" height="281"/></a>
+<a href="https://raw.githubusercontent.com/gdevufsc/Tutoriais/master/img/github/win01.png"><img src="img/github/win01.png" width="500" height="281"/></a>
 
 Foto do chat no episódio em questão
 
