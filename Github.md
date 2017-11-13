@@ -2,32 +2,25 @@ Clonar repositório
 ==================
 Windows
 -------
+**Download do aplicativo**:
 
-1. https://desktop.github.com/
+https://desktop.github.com/
 
-**Foto do chat**:
+**Selecionar o projeto no site**: https://github.com/gdevufsc
 
 <a href="https://raw.githubusercontent.com/gdevufsc/Tutoriais/master/img/github/win01.png"><img src="img/github/win01.png" width="500" height="281"/></a>
 
-Foto do chat no episódio em questão
 
-
-**Foto do chat**:
+**Pegar o link do projeto pelo site**
 
 <a href="https://raw.githubusercontent.com/gdevufsc/Tutoriais/master/img/github/win02.png"><img src="img/github/win02.png" width="500" height="281"/></a>
 
-Foto do chat no episódio em questão
 
-
-**Foto do chat**:
+**Clonar o repositório pelo aplicativo**:
 
 <a href="https://raw.githubusercontent.com/gdevufsc/Tutoriais/master/img/github/win03.png"><img src="img/github/win03.png" width="500" height="281"/></a>
 
-Foto do chat no episódio em questão
 
-
-**Foto do chat**:
+**Escolher local para o repositório**:
 
 <a href="https://raw.githubusercontent.com/gdevufsc/Tutoriais/master/img/github/win04.png"><img src="img/github/win04.png" width="500" height="281"/></a>
-
-Foto do chat no episódio em questão
