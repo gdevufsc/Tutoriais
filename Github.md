@@ -15,7 +15,7 @@ https://desktop.github.com/
 
 <a href="https://raw.githubusercontent.com/gdevufsc/Tutoriais/master/img/github/win02.png"><img src="img/github/win02.png" width="500" height="281"/></a>
 
-
+**Abrir o aplicativo do Github Desktop**
 **Clonar o repositório pelo aplicativo**:
 
 <a href="https://raw.githubusercontent.com/gdevufsc/Tutoriais/master/img/github/win03.png"><img src="img/github/win03.png" width="500" height="281"/></a>
