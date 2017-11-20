@@ -34,10 +34,10 @@ Com esse comando você salva uma cópia local das alterações realizadas.
 
 Digite um resumo das alterações realizadas, tente dar uma ideia clara do que foi alterado.
 
-<a href="https://raw.githubusercontent.com/gdevufsc/Tutoriais/master/img/github/win04.png"><img src="img/github/win04.png" width="500" height="281"/></a>
+<a href="https://raw.githubusercontent.com/gdevufsc/Tutoriais/master/img/github/commit01.png"><img src="img/github/commit01.png" width="500" height="281"/></a>
 
 **Push**
 
 Com esse comando você envia seu commit para o repositório online para que o grupo possa acessá-lo.
 
-<a href="https://raw.githubusercontent.com/gdevufsc/Tutoriais/master/img/github/win04.png"><img src="img/github/win04.png" width="500" height="281"/></a>
+<a href="https://raw.githubusercontent.com/gdevufsc/Tutoriais/master/img/github/push01.png"><img src="img/github/push01.png" width="500" height="281"/></a>
