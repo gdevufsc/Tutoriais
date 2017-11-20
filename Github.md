@@ -39,5 +39,6 @@ Digite um resumo das alterações realizadas, tente dar uma ideia clara do que f
 **Push**
 
 Com esse comando você envia seu commit para o repositório online para que o grupo possa acessá-lo.
+Caso outra pessoa tenha enviado um commit antes do seu, será necessário fazer o "pull" antes, para baixar as alterações e tentar sincronizá-las antes de enviar as suas.
 
 <a href="https://raw.githubusercontent.com/gdevufsc/Tutoriais/master/img/github/push01.png"><img src="img/github/push01.png" width="500" height="281"/></a>
